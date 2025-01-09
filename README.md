@@ -39,12 +39,12 @@ Canvas：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Canva
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Imagen utilizada 
+- ebook gerado 
 
 ## 🛠️ Instruções de execução
 
