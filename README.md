@@ -35,8 +35,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                                     |
 | conteúdo | Faça um texto para Ebook, com foco em atalhos de teclado para uso em plainhas do Excel,limitando se ao 30 principais agrupados por funcoes em 5 capitulos com exemplo de telclas de atalho.
-
-[Regras]
+Regras
 explique de madeira simples
 Deixe o texto enxuto
 traga sempre exemplos com contesto real.
