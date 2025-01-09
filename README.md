@@ -19,13 +19,8 @@
 
 # Projeto EBOOK Gerado por I.A.s
 
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
-
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
-
-
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -35,12 +30,10 @@ seguem abaixo.
 
 ## 🧠 Prompts
 
-
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
+| :------: | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                                     |
 | conteúdo | Faça um texto para Ebook, com foco em atalhos de teclado para uso em plainhas do Excel,limitando se ao 30 principais agrupados por funcoes em 5 capitulos com exemplo de telclas de atalho.
 
 [Regras]
@@ -54,7 +47,7 @@ Canvas：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Gere uma imagem para um Ebook com tema de teclas de atalho para o Excel |
 
 ## ✨ Features
 
