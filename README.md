@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/main/capa_imagem_gerada_canva.png">
+    <img width="100" src=".github/capa_imagem_gerada_canva.png">
 </p>
 
 
