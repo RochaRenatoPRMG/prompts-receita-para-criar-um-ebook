@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/capa_imagem_gerada_canva.png">
+    <img width="100" src="https://github.com/RochaRenatoPRMG/prompts-receita-para-criar-um-ebook/blob/main/capa_imagem_gerada_canva.png">
 </p>
 
 
